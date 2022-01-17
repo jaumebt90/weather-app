@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import WeatherForm from "./components/WeatherForm";
 import WeatherInfo from "./components/WeatherInfo";
 
